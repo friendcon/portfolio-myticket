@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source:  /
-    destination: /home/ubuntu/app/myticket2/zip/
+    destination: /home/ec2-user/app/myticket2/zip/
     overwrite: yes
 
 permissions:

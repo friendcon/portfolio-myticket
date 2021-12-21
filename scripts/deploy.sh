@@ -1,6 +1,6 @@
 !#/bin/bash
 
-REPOSITORY=/home/ubuntu/app/myticket2
+REPOSITORY=/home/ec2-user/app/myticket2
 PROJECT_NAME=portfolio
 
 echo "> BUILD 파일 복사"
